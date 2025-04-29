@@ -2,6 +2,10 @@
 
 This document provides an overview of the interfaces and classes available in the Mod Organizer 2 UI Base library that are relevant for plugin development.
 
+See also:
+- [Diagrams](DIAGRAMS.md)
+- [Plugin Development Guide](GUIDE.md)
+
 ## Table of Contents
 
 - [Mod Organizer 2 UI Base Documentation](#mod-organizer-2-ui-base-documentation)
