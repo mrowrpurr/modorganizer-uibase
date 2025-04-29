@@ -118,7 +118,7 @@ classDiagram
     IOrganizer --> IFileTree : provides
     
     IModList --> IModInterface : manages
-    IPluginList --> "Game Plugins" : manages
+    IPluginList --> GamePlugins : manages
     
     class IOrganizer {
         +createNexusBridge() const
@@ -369,7 +369,6 @@ flowchart TD
     O --> R[Access Profiles]
     O --> S[Access Downloads]
     O --> T[Access Game Features]
-</flowchart>
 ```
 
 ## Plugin Type Decision Tree
